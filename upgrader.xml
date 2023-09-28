@@ -3,13 +3,15 @@
   <channel>
     <!-- A release testing minimumSystemVersion -->
     <item>
-        <title>Version 1.0.3</title>
-        <sparkle:minimumSystemVersion>1.0.3</sparkle:minimumSystemVersion>
+        <title>Version 4.0</title>
+        <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
+        <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
     </item>
     <!-- A release testing maximumSystemVersion -->
     <item>
-        <title>Version 1.0.4</title>
-        <sparkle:version>1.0.4</sparkle:version>
+        <title>Version 5.0</title>
+        <sparkle:version>5.0</sparkle:version>
+        <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
     </item>
   </channel>
 </rss>
